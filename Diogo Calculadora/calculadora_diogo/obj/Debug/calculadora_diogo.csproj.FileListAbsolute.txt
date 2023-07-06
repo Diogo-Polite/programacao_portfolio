@@ -1,0 +1,8 @@
+C:\Users\jogos\Diogo Calculadora\calculadora_diogo\bin\Debug\calculadora_diogo.exe.config
+C:\Users\jogos\Diogo Calculadora\calculadora_diogo\bin\Debug\calculadora_diogo.exe
+C:\Users\jogos\Diogo Calculadora\calculadora_diogo\bin\Debug\calculadora_diogo.pdb
+C:\Users\jogos\Diogo Calculadora\calculadora_diogo\obj\Debug\calculadora_diogo.csproj.AssemblyReference.cache
+C:\Users\jogos\Diogo Calculadora\calculadora_diogo\obj\Debug\calculadora_diogo.csproj.SuggestedBindingRedirects.cache
+C:\Users\jogos\Diogo Calculadora\calculadora_diogo\obj\Debug\calculadora_diogo.csproj.CoreCompileInputs.cache
+C:\Users\jogos\Diogo Calculadora\calculadora_diogo\obj\Debug\calculadora_diogo.exe
+C:\Users\jogos\Diogo Calculadora\calculadora_diogo\obj\Debug\calculadora_diogo.pdb
